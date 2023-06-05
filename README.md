@@ -1,3 +1,10 @@
+#Stack:
+
+ReactJS (useState, useReducer, useEffect)
+React Router
+Axios
+classnames
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
