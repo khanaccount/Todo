@@ -1,9 +1,9 @@
 #Stack:
 
--ReactJS (useState, useReducer, useEffect)
--React Router
--Axios
--classnames
+*ReactJS (useState, useReducer, useEffect)
+*React Router
+*Axios
+*classnames
 
 # Getting Started with Create React App
 
